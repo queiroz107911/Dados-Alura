@@ -1,5 +1,4 @@
 # Imersao-Dados-Alura
-Dados
 
 Realizei um cmini-curso grátis da plataforma de estudos Alura;
 Dentro do curso obtive conhecimentos da área de dados como: 
