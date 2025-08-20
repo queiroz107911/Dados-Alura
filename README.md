@@ -3,12 +3,12 @@
 Realizei um cmini-curso grátis da plataforma de estudos Alura;
 Dentro do curso obtive conhecimentos da área de dados como: 
 - Bibliotecas:
-matplotlib
-numpy
-streamlit
-plotly
-pycountry
-seaborn
+matplotlib/
+numpy/
+streamlit/
+plotly/
+pycountry/
+seaborn/
 Pandas
 - Tratamento e Limpeza de dados
 - Montar gráficos e contar histórias
